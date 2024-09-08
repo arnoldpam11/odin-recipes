@@ -1,3 +1,3 @@
 [submodule "odin-recipes"]
-    path = odin-recipes
-    url = https://github.com/user/odin-recipes.git
+	path = odin-recipes
+	url = https://github.com/arnoldpam11/odin-recipes.git
